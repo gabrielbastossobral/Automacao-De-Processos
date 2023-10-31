@@ -3,7 +3,7 @@
 
 Passo a passo:
  * Dentro do projeto eu utilizei o Python e algumas das suas bibliotecas, dentro dele eu puxei a base de dados de todas as lojas com suas vendas diárias e anual
- * Puxei os indíces de vendas de acordo com cada loja e peguei a data mais recente na base de dados para conseguir fazer o cálculo dos indicadores
+ * Puxei os índices de vendas de acordo com cada loja e peguei a data mais recente na base de dados para conseguir fazer o cálculo dos indicadores
  * Criei um loop para criar uma pasta com uma planilha excel dos indíces de cada loja respectiva
  * Defini metas para todas as lojas, sendo elas: faturamento diário e anual, quantidade de produtos vendidos diário e anual, ticket médio diário e anual
  * Calculei todos os indíces da meta
