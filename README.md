@@ -4,8 +4,8 @@
 Passo a passo:
  * Dentro do projeto eu utilizei o Python e algumas das suas bibliotecas, dentro dele eu puxei a base de dados de todas as lojas com suas vendas diárias e anual
  * Puxei os índices de vendas de acordo com cada loja e peguei a data mais recente na base de dados para conseguir fazer o cálculo dos indicadores
- * Criei um loop para criar uma pasta com uma planilha excel dos indíces de cada loja respectiva
+ * Criei um loop para criar uma pasta com uma planilha excel dos índices de cada loja respectiva
  * Defini metas para todas as lojas, sendo elas: faturamento diário e anual, quantidade de produtos vendidos diário e anual, ticket médio diário e anual
- * Calculei todos os indíces da meta
+ * Calculei todos os índices da meta
  * Enviei email para os respectivos gerentes com todos os cálculos feitos e mostrando se bateu ou não a meta
  * Criei um rank mostrando a loja que mais faturou e a que menos faturou, enviei essas informações para uma diretoria fictícia
